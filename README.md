@@ -1,2 +1,2 @@
-# php-mini-app
+# Application
 A Php mini web application
